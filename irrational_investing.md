@@ -1,0 +1,9 @@
+- Human brain sees trends & patterns in randomness
+  - coin flip: 2 in a row leads to expecatation of 3rd
+  - stocks: 2 days in a row looks like a trend, don't get caught!
+- Human brain tries to predict random bad events
+  - green light 4/5 times, red light 1/5 times
+  - prize if you guess green or red
+  - humans try to guess red
+  - pigeons guess green every time, maximizing expectation
+  - stocks: stop trying to short!
