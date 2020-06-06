@@ -1,0 +1,82 @@
+shares outstanding: 295,167,761
+current price: 8.40
+current mkt cap: 2.479*10^9
+
+# revenue
+subscription: [668M, 406M, 303M] = 1.48x
+services: [694M, 480M, 372M] = 1.36x
+
+# cost of revenue
+subs: [117M, 63M, 71M] = 1.28x
+svcs: [115M, 73M, 88M] = 1.15x
+
+# operating expenses
+r&d = [263M, 174M, 216M] = 1.10x
+sga = [468M, 253M, 287M] = 1.27x
+gen = [170M, 111M, 86M] = 1.41x
+
+net loss = [336M, 193M, 370M]
+
+10-year proj
+------------
+sub_proj = 68,778M (668, 1.48, 10)
+svc_proj = 39,802M (694, 1.36, 10)
+
+*** Q1 results Apr. 30, 2020 **
+sub_proj = 11,722M (668, 1.12, 10)
+svc_proj = 18,928M (694, 1.21, 10)
+
+sub_cost_proj = (4,515M)
+svc_cost_proj = (2,335M)
+
+r&d_proj = (4,192M)
+sga_proj = (17,186M)
+gen_proj = (12,463M)
+
+.9 discount
+-----------
+sub_proj = 33,362M
+svc_proj = 20,286M
+
+*** Q1 results Apr. 30, 2020 **
+.99 discount (higher b/c fed buying bonds)
+sub_proj = 10,524M
+svc_proj = 16,796M
+
+total
+-----
+sub_proj = 33,362M
+svc_proj = 20,286M
+
+*** Q1 results Apr. 30, 2020 **
+sub_proj = 10,524M
+svc_proj = 16,796M
+
+sub_cost_proj = (4,515M)
+svc_cost_proj = (2,335M)
+r&d_proj = (4,192M)
+sga_proj = (17,186M)
+gen_proj = (12,463M)
+
+valuation = 12,957M
+
+*** Q1 results Apr. 30, 2020 **
+valuation = -13,371M
+
+current mkt cap: 2,479M
+
+5.23x valuation
+target price = $43.85/share
+
+# dilution
+shares outstanding [295M, 269M, 145M] = 1.42x
+
+2019
+granted = 36M
+canceld = (9M)
+net = 27M (10%)
+
+also they should grant less shares as their stock grows
+at 10% dilution, shares outstanding = 696M year 10
+=> target price $18.89/share
+=> 2.25x expected return
